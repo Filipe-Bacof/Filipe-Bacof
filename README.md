@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with: Yarn
 - 💬 Ask me about: JavaScript
 - 📫 How to reach me: i live in Sapucaia do Sul - RS
-- 😄 Pronouns: Him His
+- 😄 Pronouns: He His
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
 - 🎶 Music Style: Metal & Classic 🎧
 
