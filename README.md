@@ -1,15 +1,12 @@
 ### Welcome!! My name is Filipe Bacof and I'm 24 years old! 🔥
 
-<!-- - 🔭 I’m currently working on QUERO PREENCHER ESSE ESPAÇO COM O NOME DA SUA EMPRESA ❤️ -->
+- 🔭 I’m currently working at `your company ❤️`
 - 💻 Future Front End Developer
 - 🌱 I’m currently learning: ReactJS & NodeJS
-- 🤔 I’m looking for help with: Yarn
 - 🎓 Graduating in Software Engineer at Unicesumar
-- 💬 Ask me about: JavaScript
-- 🚀 Clean Code! Pragmatic Programmer!
-- 📚 Studying 36 hours a day 🔥
-- 📫 How to reach me: i live in Sapucaia do Sul - RS
-- 😄 Pronouns: He His
+- 📚 Clean Code! Pragmatic Programmer!
+- 🚀 Studying 36 hours a day 🔥
+- 📫 My city: Sapucaia do Sul - RS
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
 - 🎶 Music Style: Metal & Classic 🎧
 
