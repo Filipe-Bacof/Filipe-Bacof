@@ -1,9 +1,13 @@
-### Hello, i'm Filipe Bacof! 🔥
+### Welcome!! My name is Filipe Bacof and I'm 24 years old! 🔥
 
 <!-- - 🔭 I’m currently working on QUERO PREENCHER ESSE ESPAÇO COM O NOME DA SUA EMPRESA ❤️ -->
+- 💻 Future Front End Developer
 - 🌱 I’m currently learning: ReactJS & NodeJS
 - 🤔 I’m looking for help with: Yarn
+- 🎓 Graduating in Software Engineer at Unicesumar
 - 💬 Ask me about: JavaScript
+- 🚀 Clean Code! Pragmatic Programmer!
+- 📚 Studying 36 hours a day 🔥
 - 📫 How to reach me: i live in Sapucaia do Sul - RS
 - 😄 Pronouns: He His
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
@@ -55,7 +59,8 @@
   ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
   
   
-  
+  Find me on social media:
+<a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   
   
   
