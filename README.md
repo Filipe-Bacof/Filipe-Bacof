@@ -6,7 +6,7 @@
 - 🎓 Graduating in Software Engineer at Unicesumar
 - 📚 Clean Code! Pragmatic Programmer!
 - 🚀 Studying 36 hours a day 🔥
-- 📫 My city: Sapucaia do Sul - RS
+- 📫 I live in Sapucaia do Sul - RS
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
 - 🎶 Music Style: Metal & Classic 🎧
 
