@@ -1,6 +1,6 @@
 ### Welcome!! My name is Filipe Bacof and I'm 24 years old! 🔥
 
-- 🔭 I’m currently working at `your company ❤️`
+- 🔭 I’m currently working at `your company name here ❤️`
 - 💻 Future Front End Developer
 - 🌱 I’m currently learning: ReactJS & NodeJS
 - 🎓 Graduating in Software Engineer at Unicesumar
