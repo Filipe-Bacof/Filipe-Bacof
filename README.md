@@ -1,6 +1,6 @@
 ### Welcome!! My name is Filipe Bacof and I'm 24 years old! 🔥
 
-- 🔭 I’m currently working at `Prestativ SAP Factory`
+- 🔭 I’m currently working at `Prestativ SAP Factory` 🚀
 - 💻 Consultant ABAP Jr
 - 🌱 I’m currently learning: ReactJS & NodeJS
 - 🎓 Graduating in Software Engineer at Unicesumar
@@ -8,7 +8,7 @@
 - 🚀 Studying 36 hours a day 🔥
 - 📫 I live in Sapucaia do Sul - RS
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
-- 🎶 Music Style: Metal & Classic 🎧
+- 🎶 Music Style: Metal & Classic 🎧🍷🗿
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
