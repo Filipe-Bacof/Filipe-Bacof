@@ -20,7 +20,7 @@
 </div><br/>
   
 <div>
-  Technologies I like to use 🔧 <br /><br />
+  Technologies I like to use it daily 🔧 <br /><br />
   <img align="center" alt="Filipe-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
