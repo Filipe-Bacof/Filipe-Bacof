@@ -32,7 +32,7 @@
 </div><br/>
   
 <div>
-    Technologies I want to learn 🔧 <br /><br />
+    Technologies I want to specialize / learn 🔧 <br /><br />
   <img align="center" alt="Filipe-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Filipe-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Filipe-ABAP" height="30" width="40" src="https://developers.sap.com/content/dam/application/shared/icons/dev-m-abap-env-s4hana-connect.svg" />
