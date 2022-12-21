@@ -4,8 +4,8 @@
 - 💻 Consultant ABAP Jr & Front End React Developer
 - 🌱 I’m currently studying how to become FULLSTACK
 - 🎓 Graduating in Software Engineer at &nbsp;&nbsp;<a href="https://www.unicesumar.edu.br/home/" target="_blank"><img align="center" alt="Prestativ Logo" height="30" src="https://www.unicesumar.edu.br/home/assets/img/logo.png" /></a>
-- 📘📙 Favorite Code Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clean Code! Pragmatic Programmer!
-- 📗📓 Favorite Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kybalion! Outwitting the Devil!
+- Favorite Code Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!
+- Favorite Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!
 - 🚀 Studying 36 hours a day 🔥
 - 📫 I live in Sapucaia do Sul - RS
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
