@@ -39,6 +39,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/pt-br/" target="_blank"><img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
   <a href="https://mui.com/" target="_blank"><img align="center" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
   <a href="https://linuxmint.com/" target="_blank"><img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /></a>
   <a href="https://www.kali.org/" target="_blank"><img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></a>
@@ -49,7 +50,6 @@
   Technologies I want to learn 🔧 <br /><br />
   <a href="https://www.sap.com/brazil/index.html" target="_blank"><img align="center" alt="ABAP" height="30" width="40" src="https://developers.sap.com/content/dam/application/shared/icons/dev-m-abap-env-s4hana-connect.svg" /></a>
   <a href="https://jestjs.io/pt-BR/" target="_blank"><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
   <a href="https://storybook.js.org/" target="_blank"><img align="center" alt="StoryBook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /></a>
   <a href="https://vuejs.org/" target="_blank"><img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></a>
   <a href="https://angularjs.org/" target="_blank"><img align="center" alt="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
