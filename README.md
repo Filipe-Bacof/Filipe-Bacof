@@ -9,18 +9,14 @@
 - 🚀 Studying 36 hours a day 🔥
 - 📫 I live in Sapucaia do Sul - RS
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
-- 🎶 Music Style: Metal & Classic 🎧🍷🗿<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belphegor + Metallica & Johann Sebastian Bach
+- 🎶 Favorite Music Styles: 🎧🍷🗿
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;METAL: Belphegor + Metallica 🤘
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC: Johann Sebastian Bach + Haendel 🎶
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div>
-  <a href="https://github.com/Filipe-Bacof">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Bacof&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  <br/>
-<div>
-  Technologies I like to use it daily 🔧 <br /><br />
+<h2>Technologies I like to use it daily 🔧</h2> <br /><br />
   <a href="http://vanilla-js.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
   <a href="https://websitedocaralho.com.br/" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a href="https://flexboxfroggy.com/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
@@ -35,19 +31,19 @@
 </div>
   <br/>
 <div>
-  Technologies I need to improve & specialize 🔧 <br /><br />
+<h2>Technologies I need to improve & specialize 🔧</h2> <br /><br />
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="https://nodejs.org/pt-br/" target="_blank"><img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
   <a href="https://mui.com/" target="_blank"><img align="center" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
-  <a href="https://linuxmint.com/" target="_blank"><img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /></a>
+  <a href="https://linuxmint.com/" target="_blank"><img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
   <a href="https://www.kali.org/" target="_blank"><img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></a>
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
 </div>
   <br/>
 <div>
-  Technologies I want to learn 🔧 <br /><br />
+<h2>Technologies I want to learn 🔧</h2> <br /><br />
   <a href="https://www.sap.com/brazil/index.html" target="_blank"><img align="center" alt="ABAP" height="30" width="40" src="https://developers.sap.com/content/dam/application/shared/icons/dev-m-abap-env-s4hana-connect.svg" /></a>
   <a href="https://jestjs.io/pt-BR/" target="_blank"><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
   <a href="https://storybook.js.org/" target="_blank"><img align="center" alt="StoryBook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /></a>
@@ -55,9 +51,13 @@
   <a href="https://angularjs.org/" target="_blank"><img align="center" alt="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
   <a href="https://nestjs.com/" target="_blank"><img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /></a>
+  <a href="https://graphql.org/" target="_blank"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
   <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+  
 </div><br/>
   
 ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
