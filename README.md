@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
 - 🎶 Favorite Music Styles: 🎧🍷🗿
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;METAL: Belphegor + Metallica + Amon Amarth 🤘
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC ROCK: AC/DC + Black Sabbath + Motorhead 🎧
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC: Johann Sebastian Bach + Haendel + Mozart 🎶
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -64,3 +65,4 @@
 Find me on social media: <br />
 <a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img height="50px" width="50px" src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img height="50px" width="50px" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/8k3a5mqfxtf78erfftdjjp03e" target="_blank"><img height="50px" width="50px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" alt="Spotify"></a>
