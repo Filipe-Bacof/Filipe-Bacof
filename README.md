@@ -2,16 +2,15 @@
 
 - 🔭 I’m currently working at &nbsp;&nbsp;<a href="https://prestativ.com.br/" target="_blank"><img align="center" alt="Prestativ Logo" height="30" src="https://prestativ.com.br/wp-content/uploads/2022/03/02-MARCA-HORIZONTAL-Copia-SEM-FUNDO.png" /></a> &nbsp;&nbsp;&nbsp; 🚀
 - 💻 Consultant ABAP Jr & Full Stack React+Node Developer Jr
-- 🌱 I’m currently studying how to become FULLSTACK
+- 🌱 I’m currently studying UX & UI Design
 - 🎓 Graduating in Software Engineer at &nbsp;&nbsp;<a href="https://www.unicesumar.edu.br/home/" target="_blank"><img align="center" alt="Prestativ Logo" height="30" src="https://www.unicesumar.edu.br/home/assets/img/logo.png" /></a>
 - Favorite Code Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!
 - Favorite Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!
-- 🚀 Studying 36 hours a day 🔥
 - 📫 I live in Sapucaia do Sul - RS
 - ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
 - 🎶 Favorite Music Styles: 🎧🍷🗿
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;METAL: Belphegor + Metallica 🤘
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC: Johann Sebastian Bach + Haendel 🎶
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;METAL: Belphegor + Metallica + Amon Amarth 🤘
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC: Johann Sebastian Bach + Haendel + Mozart 🎶
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
