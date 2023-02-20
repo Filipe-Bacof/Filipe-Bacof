@@ -1,7 +1,7 @@
 ### Welcome!! My name is Filipe Bacof and I'm 25 years old! 🔥
 
 - 🔭 I’m currently working at &nbsp;&nbsp;<a href="https://prestativ.com.br/" target="_blank"><img align="center" alt="Prestativ Logo" height="30" src="https://prestativ.com.br/wp-content/uploads/2022/03/02-MARCA-HORIZONTAL-Copia-SEM-FUNDO.png" /></a> &nbsp;&nbsp;&nbsp; 🚀
-- 💻 Consultant ABAP Jr & Front End React Developer
+- 💻 Consultant ABAP Jr & Full Stack React+Node Developer Jr
 - 🌱 I’m currently studying how to become FULLSTACK
 - 🎓 Graduating in Software Engineer at &nbsp;&nbsp;<a href="https://www.unicesumar.edu.br/home/" target="_blank"><img align="center" alt="Prestativ Logo" height="30" src="https://www.unicesumar.edu.br/home/assets/img/logo.png" /></a>
 - Favorite Code Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!
