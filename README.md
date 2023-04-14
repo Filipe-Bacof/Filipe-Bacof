@@ -13,6 +13,7 @@
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC ROCK: AC/DC + Black Sabbath + Motorhead 🎧
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC: Johann Sebastian Bach + Haendel + Mozart 🎶
 
+<a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">Click Here to see my Portifolio!</a>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div>
