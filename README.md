@@ -1,4 +1,4 @@
-### Welcome!! My name is Filipe Bacof and I'm 25 years old! 🔥
+## Welcome!! My name is Filipe Bacof and I'm 25 years old! 🔥
 
 - 🔭 I’m currently working at `your company name here`!
 - 💻 Full Stack React+Node Developer Jr
