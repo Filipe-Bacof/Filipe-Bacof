@@ -45,13 +45,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <a href="https://linuxmint.com/" target="_blank"><img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
   <a href="https://www.kali.org/" target="_blank"><img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></a>
   <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
   <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+  <a href="https://www.php.net/" target="_blank"><img align="center" alt="PHP" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
 </div>
   <br/>
 <div>
 <h2>Technologies I want to learn 🔧</h2> <br />
-  <a href="https://www.php.net/" target="_blank"><img align="center" alt="PHP" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
   <a href="https://wordpress.org/" target="_blank"><img align="center" alt="Wordpress" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></a>
   <a href="https://jquery.com/" target="_blank"><img align="center" alt="JQuery" height="30" width="40"
@@ -67,7 +68,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-origin
   <a href="https://nestjs.com/" target="_blank"><img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
   <a href="https://graphql.org/" target="_blank"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-  <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
 </div><br/>
   
 ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
