@@ -78,3 +78,4 @@ Find me on social media: <br />
 <a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img height="50px" width="50px" src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img height="50px" width="50px" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/8k3a5mqfxtf78erfftdjjp03e" target="_blank"><img height="50px" width="50px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" alt="Spotify"></a>
+<a href="https://app.rocketseat.com.br/me/filipe-bacof" target="_blank"><img height="50px" width="50px" src="https://xesque.rocketseat.dev/platform/badges/1675000061519.png" alt="RocketSeat"></a>
