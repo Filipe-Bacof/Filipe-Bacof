@@ -1,81 +1,42 @@
-## Welcome!! My name is Filipe Bacof and I'm 25 years old! 🔥
+# Welcome!! My name is Filipe Bacof! 🔥
 
-- 🔭 I’m currently working at `your company name here`!
-- 💻 Full Stack React+Node Developer Jr
-- 🌱 I’m currently studying Next.JS & Jest
-- 🎓 Graduating in Software Engineer at &nbsp;&nbsp;<a href="https://www.unicesumar.edu.br/home/" target="_blank"><img align="center" alt="Unicesumar Logo" height="30" src="https://www.unicesumar.edu.br/home/assets/img/logo.png" /></a>
-- Favorite Code Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!
-- Favorite Books:<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion! <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!
-- 📫 I live in Sapucaia do Sul - RS
-- ⚡ Fun fact: I have a cat that loves to sleep on my keyboard 🐈‍⬛
-- 🎶 Favorite Music Styles: 🎧🍷🗿
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;METAL: Belphegor + Metallica + Amon Amarth 🤘
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC ROCK: AC/DC + Black Sabbath + Motorhead 🎧
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLASSIC: Johann Sebastian Bach + Haendel + Mozart 🎶
+### 🔭 I’m currently working at **`your company name here`**!
+### 💻 Full Stack React+Node Developer Jr/Mid
+### 🌱 I’m currently studying Next.JS & Jest
+### 🎓 Graduating in Software Engineer at Unicesumar
+### 🎂 I'm 25 years old!
+### ⌨️  My Favorite Code Books:
+- 📘Clean Code!
+- 📙Pragmatic Programmer!
+### ⭐ Favorite Books:
+- 📗Kybalion!
+- 📓Outwitting the Devil!
+### 📫 I live in Sapucaia do Sul - RS
+### 🐈‍⬛ I have a cat named Anubis, he's my code partner!
+### 🎶 Favorite Music Styles: <a href="https://filipe-bacof.github.io/Musicas-Bacof/" target="_blank">🎧🍷🗿</a> Click on the emojis
 
-<a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank"><img alt="JavaScript" src="https://raw.githubusercontent.com/Filipe-Bacof/Filipe-Bacof/main/button-see-portifolio.png" /></a>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
+# <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a>
+### Technologies I like to use it daily 🔧
 <div>
-<h2>Technologies I like to use it daily 🔧</h2> <br />
-  <a href="http://vanilla-js.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://websitedocaralho.com.br/" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-  <a href="https://flexboxfroggy.com/" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-  <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://nodejs.org/pt-br/" target="_blank"><img align="center" alt="NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img align="center" alt="GIT" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-  <a href="https://developerslife.tech/pt/wp-content/uploads/2014/05/raul.png" target="_blank"><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></a>
-  <a href="https://mui.com/" target="_blank"><img align="center" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /></a>
-  <a href="https://yarnpkg.com/" target="_blank"><img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" /></a>
-  <a href="https://www.atlassian.com/br/git/tutorials/git-bash" target="_blank"><img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://legacy.reactjs.org/docs" target="_blank"><img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"><img align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://nodejs.org/en/docs" target="_blank"><img align="center" alt="NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <br/><br/>
+  <a href="https://www.mongodb.com/docs/" target="_blank"><img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img align="center" alt="NextJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="filter: invert(100%);"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img align="center" alt="TailWind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+  <a href="https://www.prisma.io/docs" target="_blank"><img align="center" alt="Prisma" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"/></a>
+  <a href="https://jestjs.io/docs/getting-started" target="_blank"><img align="center" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
 </div>
-  <br/>
-<div>
-<h2>Technologies I need to improve & specialize 🔧</h2> <br />
-  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-  <a href="https://jestjs.io/pt-BR/" target="_blank"><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img align="center" alt="TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
-  <a href="https://expo.dev/" target="_blank"><img align="center" alt="Expo" height="30" width="40" src="https://www.svgviewer.dev/static-svgs/13890/expo-icon.svg" /></a>
-  <a href="https://linuxmint.com/" target="_blank"><img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-  <a href="https://www.kali.org/" target="_blank"><img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-  <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
-  <a href="https://www.php.net/" target="_blank"><img align="center" alt="PHP" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></a>
-</div>
-  <br/>
-<div>
-<h2>Technologies I want to learn 🔧</h2> <br />
-  <a href="https://wordpress.org/" target="_blank"><img align="center" alt="Wordpress" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></a>
-  <a href="https://jquery.com/" target="_blank"><img align="center" alt="JQuery" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="center" alt="C#" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
-  <a https://adonisjs.com/" target="_blank"><img align="center" alt="AdonisJS" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" /></a>
-  <a href="https://storybook.js.org/" target="_blank"><img align="center" alt="StoryBook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /></a>
-  <a href="https://vuejs.org/" target="_blank"><img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /></a>
-  <a href="https://angularjs.org/" target="_blank"><img align="center" alt="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></a>
-  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /></a>
-  <a href="https://graphql.org/" target="_blank"><img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
-</div><br/>
-  
-![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
 
-Find me on social media: <br />
-<a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img height="50px" width="50px" src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img height="50px" width="50px" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/8k3a5mqfxtf78erfftdjjp03e" target="_blank"><img height="50px" width="50px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" alt="Spotify"></a>
-<a href="https://app.rocketseat.com.br/me/filipe-bacof" target="_blank"><img height="50px" width="50px" src="https://xesque.rocketseat.dev/platform/badges/1675000061519.png" alt="RocketSeat"></a>
+### Find me on social media:
+<div style="display: flex; align-items: center">
+  <a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img height="53px" width="53px" src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img height="45px" width="45px" src="https://cpaq.ufms.br/files/2022/03/Instagram-logo-free-download-PNG-e1647376733700.png" alt="Instagram" style="border-radius: 50%"></a>
+  <a href="https://open.spotify.com/user/8k3a5mqfxtf78erfftdjjp03e" target="_blank"><img height="50px" width="50px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" alt="Spotify"></a>
+  <a href="https://app.rocketseat.com.br/me/filipe-bacof" target="_blank"><img height="47px" width="47px" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4" alt="RocketSeat" style="border-radius: 50%"></a>
+</div>
