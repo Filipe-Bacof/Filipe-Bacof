@@ -40,3 +40,9 @@
   <a href="https://open.spotify.com/user/8k3a5mqfxtf78erfftdjjp03e" target="_blank"><img height="50px" width="50px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" alt="Spotify"></a>
   <a href="https://app.rocketseat.com.br/me/filipe-bacof" target="_blank"><img height="47px" width="47px" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4" alt="RocketSeat" style="border-radius: 50%"></a>
 </div>
+
+### Stats API
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=transparent)
+
+### Snake Animation
+![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
