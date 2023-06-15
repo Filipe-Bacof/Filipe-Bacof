@@ -42,12 +42,9 @@
 </div>
 
 <!--
-### Stats API
 ![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=transparent)
 -->
-### Stats Languages API:
 ![Filipe's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Bacof&layout=compact&theme=transparent)
 <!--
-### Snake Animation
 ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
 -->
