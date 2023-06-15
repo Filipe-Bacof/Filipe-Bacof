@@ -41,8 +41,13 @@
   <a href="https://app.rocketseat.com.br/me/filipe-bacof" target="_blank"><img height="47px" width="47px" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4" alt="RocketSeat" style="border-radius: 50%"></a>
 </div>
 
+<!--
 ### Stats API
-![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=transparent)
-
+![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=transparent)
+-->
+### Stats Languages API:
+![Filipe's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Bacof&layout=compact&theme=transparent)
+<!--
 ### Snake Animation
 ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
+-->
