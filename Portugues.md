@@ -1,6 +1,6 @@
 # Bem Vindo!! Meu nome é Filipe Bacof! 🔥
 
-### 🔭 Estou atualmente trabalhando na **`nome da sua empresa aqui`**!
+### 🔭 Estou atualmente trabalhando na [Olhar180](https://www.olhar180.com.br)!
 ### 💻 Desenvolvedor Full Stack React+Node Junior/Pleno
 ### 🌱 Eu atualmente estou estudando Next.JS & Jest
 ### 🎓 Cursando bacharelado de Engenharia de Software na Unicesumar
