@@ -1,6 +1,6 @@
 # Welcome!! My name is Filipe Bacof! 🔥
 ##### <a href="https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md" target="_blank">Ver em português</a>
-### 🔭 I’m currently working at **`your company name here`**!
+### 🔭 I’m currently working at [Olhar180](https://www.olhar180.com.br)!
 ### 💻 Full Stack React+Node Developer Jr/Mid
 ### 🌱 I’m currently studying Next.JS & Jest
 ### 🎓 Graduating in Software Engineering at Unicesumar
