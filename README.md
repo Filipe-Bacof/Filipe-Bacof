@@ -13,7 +13,7 @@
 - 📓Outwitting the Devil!
 ### 📫 I live in Sapucaia do Sul - RS
 ### 🐈‍⬛ I have a cat named Anubis, he's my code partner!
-### 🎶 Favorite Music Styles: <a href="https://filipe-bacof.github.io/Musicas-Bacof/" target="_blank">🎧🍷🗿</a> Click on the emojis
+### 🎶 Favorite Music Styles: <a href="https://filipe-bacof.github.io/Musicas-Bacof/" target="_blank">🎧🍷🗿 Click Here!</a>
 
 # <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a>
 ### Technologies I like to use it daily 🔧
@@ -45,4 +45,4 @@
 
 ![Filipe's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Bacof&layout=compact&theme=transparent)
 
-![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg) -->
