@@ -13,7 +13,7 @@
 - 📓Mais esperto que o diabo!
 ### 📫 Eu moro em Sapucaia do Sul - RS
 ### 🐈‍⬛ Tenho um gato chamado Anubis, ele é meu companheiro para programar!
-### 🎶 Estilos Musicais Preferidos: <a href="https://filipe-bacof.github.io/Musicas-Bacof/" target="_blank">🎧🍷🗿</a> Clique nos Emojis
+### 🎶 Estilos Musicais Preferidos: <a href="https://filipe-bacof.github.io/Musicas-Bacof/" target="_blank">🎧🍷🗿 Clique aqui!</a>
 
 # <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Clique aqui para ver o meu portifólio</a>
 ### Tecnologias que eu gosto de usar no dia a dia 🔧
@@ -43,8 +43,8 @@
 
 <!--
 ![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=transparent)
--->
+
 ![Filipe's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Bacof&layout=compact&theme=transparent)
-<!--
+
 ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg)
 -->
