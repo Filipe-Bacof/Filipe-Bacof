@@ -1,22 +1,23 @@
 # Welcome!! My name is Filipe Bacof! 🔥
-##### <a href="https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md" target="_blank">Ver em português</a>
-### 🔭 I’m currently working at [Olhar180](https://www.olhar180.com.br)!
-### 💻 Full Stack React+Node Developer Jr/Mid
-### 🌱 I’m currently studying Next.JS & Jest
-### 🎓 Graduating in Software Engineering at Unicesumar
-### 🎂 I'm 25 years old!
-### ⌨️  My Favorite Code Books:
-- 📘Clean Code!
-- 📙Pragmatic Programmer!
-### ⭐ Favorite Books:
-- 📗Kybalion!
-- 📓Outwitting the Devil!
-### 📫 I live in Sapucaia do Sul - RS
-### 🐈‍⬛ I have a cat named Anubis, he's my code partner!
-### 🎶 Favorite Music Styles: <a href="https://filipe-bacof.github.io/Musicas-Bacof/" target="_blank">🎧🍷🗿 Click Here!</a>
+##### [Ver em português](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md)
+🔭 I’m currently working at [Olhar180](https://www.olhar180.com.br)!</br>
+🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) at the company [Thinkolab Technology](https://github.com/thinkolab)!</br>
+💻 Full Stack React+Node Developer</br>
+🌱 I’m currently studying Next.JS & Jest</br>
+🎓 Graduating in Software Engineering at Unicesumar</br>
+🎂 I'm 25 years old!</br>
+⌨️  My Favorite Code Books:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!</br>
+⭐ Favorite Books:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
+📫 I live in Sapucaia do Sul - RS</br>
+🐈‍⬛ I have a cat named Anubis, he's my code partner!</br>
+🎶 Favorite Music Styles: [🎧🍷🗿 Click Here!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
-# <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a>
-### Technologies I like to use it daily 🔧
+# <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a></br>
+🔧 Technologies I like to use it daily</br>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
@@ -31,9 +32,9 @@
   <a href="https://tailwindcss.com/docs" target="_blank"><img align="center" alt="TailWind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
   <a href="https://www.prisma.io/docs" target="_blank"><img align="center" alt="Prisma" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"/></a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank"><img align="center" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
-</div>
+</div></br>
 
-### Find me on social media:
+Find me on social media:</br>
 <div style="display: flex; align-items: center">
   <a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img height="53px" width="53px" src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img height="45px" width="45px" src="https://cpaq.ufms.br/files/2022/03/Instagram-logo-free-download-PNG-e1647376733700.png" alt="Instagram" style="border-radius: 50%"></a>
