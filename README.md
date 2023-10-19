@@ -25,7 +25,6 @@
   <a href="https://legacy.reactjs.org/docs" target="_blank"><img align="center" alt="REACT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
   <a href="https://dev.mysql.com/doc/" target="_blank"><img align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
   <a href="https://nodejs.org/en/docs" target="_blank"><img align="center" alt="NODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
-  <br/><br/>
   <a href="https://www.mongodb.com/docs/" target="_blank"><img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://nextjs.org/docs" target="_blank"><img align="center" alt="NextJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="filter: invert(100%);"/></a>
@@ -43,7 +42,6 @@ Find me on social media:</br>
 </div>
 
 ![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filipe-Bacof&show_icons=true&theme=transparent)
-
 ![Filipe's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Bacof&layout=compact&theme=transparent)
 
 <!-- ![Snake animation](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/output/github-contribution-grid-snake.svg) -->
