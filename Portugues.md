@@ -1,5 +1,5 @@
 # Bem Vindo!! Meu nome é Filipe Bacof! 🔥
-##### [Ver em inglês](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/README.md)
+##### [See in English](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/README.md)
 🔭 Estou atualmente trabalhando na [Olhar180](https://www.olhar180.com.br)!</br>
 🚀 Criando inovações com meu melhor amigo [Rafael Mahl](https://github.com/mahlignus) na nossa startup [Thinkolab Technology](https://github.com/thinkolab)!</br>
 💻 Desenvolvedor Full Stack React+Node</br>
