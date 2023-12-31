@@ -2,8 +2,9 @@
 ##### [See in English](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/README.md)
 🔭 Estou atualmente trabalhando na [Olhar180](https://www.olhar180.com.br)!</br>
 🚀 Criando inovações com meu melhor amigo [Rafael Mahl](https://github.com/mahlignus) na nossa startup [Thinkolab Technology](https://github.com/thinkolab)!</br>
+📝 Estudo regularmente junto com o [Diogo Garbinato](https://github.com/DiogoGDF), estamos trabalhando [Neste Projeto](https://github.com/Twist-Labs)!</br>
 💻 Desenvolvedor Full Stack React+Node</br>
-🌱 Eu atualmente estou estudando Next.JS & Jest</br>
+🌱 Eu atualmente estou estudando design e interação</br>
 🎓 Cursando bacharelado de Engenharia de Software na Unicesumar</br>
 🎂 Tenho 25 anos de idade!</br>
 ⌨️  Meus livros favoritos sobre código:</br>
