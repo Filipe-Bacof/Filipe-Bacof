@@ -2,8 +2,9 @@
 ##### [Ver em português](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md)
 🔭 I’m currently working at [Olhar180](https://www.olhar180.com.br)!</br>
 🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) at the company [Thinkolab Technology](https://github.com/thinkolab)!</br>
+📝 Regularly studying together with [Diogo Garbinato](https://github.com/DiogoGDF), we are working on [This Project](https://github.com/Twist-Labs)!</br>
 💻 Full Stack React+Node Developer</br>
-🌱 I’m currently studying Next.JS & Jest</br>
+🌱 I’m currently studying design and interaction</br>
 🎓 Graduating in Software Engineering at Unicesumar</br>
 🎂 I'm 25 years old!</br>
 ⌨️  My Favorite Code Books:</br>
