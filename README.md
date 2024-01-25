@@ -1,6 +1,6 @@
 # Welcome!! My name is Filipe Bacof! 🔥
 ##### [Ver em português](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md)
-🔭 I’m currently working at [Olhar180](https://www.olhar180.com.br)!</br>
+🔭 I’m currently working at [Vidaia](https://www.vidaia.com.br)!</br>
 🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) at the company [Thinkolab Technology](https://github.com/thinkolab)!</br>
 📝 Regularly studying together with [Diogo Garbinato](https://github.com/DiogoGDF), we are working on [This Project](https://github.com/Twist-Labs)!</br>
 💻 Full Stack React+Node Developer</br>
