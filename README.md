@@ -1,16 +1,13 @@
 # Welcome!! My name is Filipe Bacof! 🔥
 ##### [Ver em português](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md)
-🔭 I’m currently working at [Vidaia](https://www.vidaia.com.br)!</br>
-🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) at the company [Thinkolab Technology](https://github.com/thinkolab)!</br>
-📝 Regularly studying together with [Diogo Garbinato](https://github.com/DiogoGDF), we are working on [This Project](https://github.com/Twist-Labs)!</br>
+🔭 I am currently looking for new job opportunities!</br>
+🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) in our project called [Thinkolab Technology](https://github.com/thinkolab)!</br>
 💻 Full Stack React+Node Developer</br>
-🌱 I’m currently studying design and interaction</br>
-🎓 Graduating in Software Engineering at Unicesumar</br>
-🎂 I'm 25 years old!</br>
-⌨️  My Favorite Code Books:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code!</br>
+🌱 I’m currently studying Blockchain and Web3</br>
+🎓 Graduating in the last year in Software Engineering at Unicesumar</br>
+🎂 I'm 26 years old!</br>
+⭐  My Favorite Code Books:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!</br>
-⭐ Favorite Books:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
 📫 I live in Sapucaia do Sul - RS</br>
@@ -29,7 +26,7 @@
   <a href="https://www.mongodb.com/docs/" target="_blank"><img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank"><img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
   <a href="https://nextjs.org/docs" target="_blank"><img align="center" alt="NextJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="filter: invert(100%);"/></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img align="center" alt="TailWind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img align="center" alt="TailWind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
   <a href="https://www.prisma.io/docs" target="_blank"><img align="center" alt="Prisma" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"/></a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank"><img align="center" alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
 </div></br>
