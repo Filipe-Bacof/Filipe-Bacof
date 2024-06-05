@@ -6,7 +6,7 @@
 🌱 I’m currently studying Blockchain and Web3</br>
 🎓 Graduating in the last year in Software Engineering at Unicesumar</br>
 🎂 I'm 26 years old!</br>
-⭐  My Favorite Code Books:</br>
+⭐  My Favorite Books:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
