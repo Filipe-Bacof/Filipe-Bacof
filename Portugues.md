@@ -1,13 +1,14 @@
 # Bem Vindo!! Meu nome é Filipe Bacof! 🔥
 ##### [See in English](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/README.md)
 🔭 Estou atualmente buscando por novas oportunidades!</br>
-🚀 Criando inovações com meu melhor amigo [Rafael Mahl](https://github.com/mahlignus) no nosso projeto [Thinkolab Technology](https://github.com/thinkolab)!</br>
+🚀 Criando inovações com meu melhor amigo [Rafael Mahl](https://github.com/mahlignus) no nosso projeto [Thinkolab Technology](https://thinkolab.com.br/)!</br>
 💻 Desenvolvedor Full Stack React+Node</br>
 🌱 Eu atualmente estou estudando Blockchain e Web3</br>
 🎓 Cursando o último ano do bacharelado em Engenharia de Software na Unicesumar</br>
 🎂 Tenho 26 anos de idade!</br>
 ⭐  Meus livros favoritos:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙O Programador Pragmático!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Código Limpo!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗O Caibalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Mais esperto que o diabo!</br>
 📫 Eu moro em Sapucaia do Sul - RS</br>
