@@ -1,13 +1,14 @@
 # Welcome!! My name is Filipe Bacof! 🔥
 ##### [Ver em português](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md)
 🔭 I am currently looking for new job opportunities!</br>
-🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) in our project called [Thinkolab Technology](https://github.com/thinkolab)!</br>
+🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) in our project called [Thinkolab Technology](https://thinkolab.com.br/)!</br>
 💻 Full Stack React+Node Developer</br>
 🌱 I’m currently studying Blockchain and Web3</br>
 🎓 Graduating in the last year in Software Engineering at Unicesumar</br>
 🎂 I'm 26 years old!</br>
 ⭐  My Favorite Books:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
 📫 I live in Sapucaia do Sul - RS</br>
