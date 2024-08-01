@@ -12,7 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
 📫 I live in Sapucaia do Sul - RS</br>
-🐈‍⬛ I have a cat named Anubis, he's my code partner!</br>
+🐈‍⬛ I have two cats: a gray one called Anubis and a black and white one called Venom.</br>
+💻 They both love playing together and being my code partners.</br>
 🎶 Favorite Music Styles: [🎧🍷🗿 Click Here!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
 # <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a></br>
