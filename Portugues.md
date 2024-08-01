@@ -12,7 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗O Caibalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Mais esperto que o diabo!</br>
 📫 Eu moro em Sapucaia do Sul - RS</br>
-🐈‍⬛ Tenho um gato chamado Anubis, ele é meu companheiro para programar!</br>
+🐈‍⬛ Eu tenho dois gatos: um cinza chamado Anubis e um preto com branco chamado Venom.</br>
+💻 Os dois adoram brincar juntos e serem meus parceiros para codificar.</br>
 🎶 Estilos Musicais Preferidos: [🎧🍷🗿 Clique aqui!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
 # <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Clique aqui para ver o meu portifólio</a></br>
