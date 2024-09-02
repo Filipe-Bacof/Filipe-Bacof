@@ -3,7 +3,7 @@
 🔭 I am currently looking for new job opportunities!</br>
 🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) in our project called [Thinkolab Technology](https://thinkolab.com.br/)!</br>
 💻 Full Stack React+Node Developer</br>
-🌱 I’m currently studying Blockchain and Web3</br>
+🌱 I’m currently studying Automated Tests, Blockchain and Web3</br>
 🎓 Graduating in the last year in Software Engineering at Unicesumar</br>
 🎂 I'm 26 years old!</br>
 ⭐  My Favorite Books:</br>
@@ -12,8 +12,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
 📫 I live in Sapucaia do Sul - RS</br>
-🐈‍⬛ I have two cats: a gray one called Anubis and a black and white one called Venom.</br>
-💻 They both love playing together and being my code partners.</br>
+🐈‍⬛ I have three cats:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱The gray one is called Anubis, he loves watching birds and the movement on the street.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱The black and white one is called Venom, he is very cunning and a glutton, he loves to be petted.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱And the tabby one is called Shelby, he purrs a lot when he receives any affection, he is my code partner.</br>
 🎶 Favorite Music Styles: [🎧🍷🗿 Click Here!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
 # <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a></br>
