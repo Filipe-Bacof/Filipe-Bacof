@@ -3,7 +3,7 @@
 🔭 Estou atualmente buscando por novas oportunidades!</br>
 🚀 Criando inovações com meu melhor amigo [Rafael Mahl](https://github.com/mahlignus) no nosso projeto [Thinkolab Technology](https://thinkolab.com.br/)!</br>
 💻 Desenvolvedor Full Stack React+Node</br>
-🌱 Eu atualmente estou estudando Blockchain e Web3</br>
+🌱 Eu atualmente estou estudando Testes Automatizados, Blockchain e Web3</br>
 🎓 Cursando o último ano do bacharelado em Engenharia de Software na Unicesumar</br>
 🎂 Tenho 26 anos de idade!</br>
 ⭐  Meus livros favoritos:</br>
@@ -12,8 +12,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗O Caibalion!</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Mais esperto que o diabo!</br>
 📫 Eu moro em Sapucaia do Sul - RS</br>
-🐈‍⬛ Eu tenho dois gatos: um cinza chamado Anubis e um preto com branco chamado Venom.</br>
-💻 Os dois adoram brincar juntos e serem meus parceiros para codificar.</br>
+🐈‍⬛ Eu tenho três gatos:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱O cinza se chama Anubis, ele adora observar passaros e o movimento na rua.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱O frajolinha se chama Venom, ele é muito manhoso e comilão, adora receber um carinho.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱E o tigrado se chama Shelby, ele ronrona muito ao receber qualquer carinho, ele adora ficar no meu colo enquanto eu escrevo código.</br>
 🎶 Estilos Musicais Preferidos: [🎧🍷🗿 Clique aqui!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
 # <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Clique aqui para ver o meu portifólio</a></br>
