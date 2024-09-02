@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱And the tabby one is called Shelby, he purrs a lot when he receives any affection, he is my code partner.</br>
 🎶 Favorite Music Styles: [🎧🍷🗿 Click Here!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
-# <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a></br>
+# <a href="https://portfolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a></br>
 🔧 Technologies I like to use it daily</br>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
