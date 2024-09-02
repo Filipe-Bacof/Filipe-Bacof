@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱E o tigrado se chama Shelby, ele ronrona muito ao receber qualquer carinho, ele adora ficar no meu colo enquanto eu escrevo código.</br>
 🎶 Estilos Musicais Preferidos: [🎧🍷🗿 Clique aqui!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
-# <a href="https://portifolio-filipe-bacof.vercel.app/" target="_blank">📎 Clique aqui para ver o meu portifólio</a></br>
+# <a href="https://portfolio-filipe-bacof.vercel.app/" target="_blank">📎 Clique aqui para ver o meu portifólio</a></br>
 🔧 Tecnologias que eu gosto de usar no dia a dia</br>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
