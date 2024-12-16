@@ -1,6 +1,6 @@
 # Bem Vindo!! Meu nome é Filipe Bacof! 🔥
 ##### [See in English](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/README.md)
-🔭 Estou atualmente buscando por novas oportunidades!</br>
+🔭 Estou atualmente trabalhando na [PariPassu](https://www.paripassu.com.br/)!</br>
 🚀 Criando inovações com meu melhor amigo [Rafael Mahl](https://github.com/mahlignus) no nosso projeto [Thinkolab Technology](https://thinkolab.com.br/)!</br>
 💻 Desenvolvedor Full Stack React+Node</br>
 🌱 Eu atualmente estou estudando Testes Automatizados, Blockchain e Web3</br>
