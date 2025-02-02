@@ -1,21 +1,29 @@
 # Welcome!! My name is Filipe Bacof! 🔥
 ##### [Ver em português](https://github.com/Filipe-Bacof/Filipe-Bacof/blob/main/Portugues.md)
-🔭 I am currently working at [PariPassu](https://www.paripassu.com.br/)!</br>
-🚀 Creating solutions with my best friend [Rafael Mahl](https://github.com/mahlignus) in our project called [Thinkolab Technology](https://thinkolab.com.br/)!</br>
-💻 Full Stack React+Node Developer</br>
-🌱 I’m currently studying Automated Tests, Blockchain and Web3</br>
-🎓 Graduating in the last year in Software Engineering at Unicesumar</br>
-🎂 I'm 26 years old!</br>
+🚀 I am currently working at [PariPassu](https://www.paripassu.com.br/)!</br>
+🔭 Creating software experiments with my best friend [Rafael Mahl](https://github.com/mahlignus) in our project called [Thinkolab Technology](https://thinkolab.com.br/)!</br>
+💻 Full Stack Developer React | Node | Java;</br>
+🌱 I'm currently studying Java, AWS, Jenkins, Blockchain, automated testing, and front-end best practices;</br>
+🎓 Graduated in Software Engineering from Unicesumar in 2025;</br>
+🎂 I'm 27 years old, a Capricorn born on January 5, 1998;</br>
+❤️ In love with Dieli since April 2022;</br>
 ⭐  My Favorite Books:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code!</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;📙Pragmatic Programmer!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;📘Clean Code!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;📗Kybalion!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;📓Outwitting the Devil!</br>
 📫 I live in Sapucaia do Sul - RS</br>
-🐈‍⬛ I have three cats:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱The gray one is called Anubis, he loves watching birds and the movement on the street.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱The black and white one is called Venom, he is very cunning and a glutton, he loves to be petted.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐱And the tabby one is called Shelby, he purrs a lot when he receives any affection, he is my code partner.</br>
+🐈‍⬛ I have nine cats:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱The gray one is named Anubis, heir of the cats and the oldest, he loves watching the street movement and is very grumpy;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱The tuxedo is named Venom, he is very clingy and a big eater, has trouble finding the litter box;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱The tabby is named Shelby, he is a skilled insect hunter and a dangerous predator;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱The black youngest is named Salém, ironically adopted on Halloween, has a very penetrating gaze;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱Kali is hard to explain, as she is black but turning gray, she has the skin condition of Michael Jackson: Fever Coat;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱Artemis is our calico, a bit antisocial with sharp claws, likes to sleep alone;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱The Siamese is Talos, named after the hero from the game Skyrim, he hates being held and is cross-eyed, or as we call it: cross-cat;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱Talos' twin sister is named Vênus, white as snow, with cow-like ears and a tricolor tail, extremely affectionate and has become my code-partner;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱Mammon is our oldest black cat, extremely playful and mischievous, a bad influence on all the others, but he is my chad cat;</br>
+&nbsp;&nbsp;&nbsp;&nbsp;🐱Besides all that, I also feed some street cats;</br>
 🎶 Favorite Music Styles: [🎧🍷🗿 Click Here!](https://filipe-bacof.github.io/Musicas-Bacof)</br>
 
 # <a href="https://portfolio-filipe-bacof.vercel.app/" target="_blank">📎 Click here to see my portifolio</a></br>
@@ -39,6 +47,7 @@ Find me on social media:</br>
 <div style="display: flex; align-items: center">
   <a href="https://www.linkedin.com/in/filipe-bacof/" target="_blank"><img height="53px" width="53px" src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/filipe.bacof/" target="_blank"><img height="45px" width="45px" src="https://cpaq.ufms.br/files/2022/03/Instagram-logo-free-download-PNG-e1647376733700.png" alt="Instagram" style="border-radius: 50%"></a>
+  <a href="https://www.threads.net/@filipe.bacof" target="_blank"><img height="45px" width="45px" src="https://github.com/user-attachments/assets/c1af0847-b704-49f0-8d7f-f2a8a8998f0c" alt="Threads" style="border-radius: 50%"></a>
   <a href="https://open.spotify.com/user/8k3a5mqfxtf78erfftdjjp03e" target="_blank"><img height="50px" width="50px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" alt="Spotify"></a>
   <a href="https://app.rocketseat.com.br/me/filipe-bacof" target="_blank"><img height="47px" width="47px" src="https://avatars.githubusercontent.com/u/28929274?s=280&v=4" alt="RocketSeat" style="border-radius: 50%"></a>
 </div>
